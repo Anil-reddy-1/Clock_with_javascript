@@ -1,0 +1,33 @@
+body{
+  text-align: center;
+  margin: 0;
+}
+
+input{
+  margin: 20px;
+}
+
+#container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+#time{
+  font-size: 4rem;
+  padding: 30px;
+}
+button{
+  font-size: 1.25rem;
+  padding: 15px 24px;
+  border-radius: 5px solid ;
+  margin: 10px;
+  background-color: green;
+  color: white;
+}
+
+
+
+
